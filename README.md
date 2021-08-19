@@ -8,7 +8,7 @@ Here we are restricting ourselves to recognition of English Alphabets only
 We have created the Dataset manually using OpenCV. Each alphabet in the dataset contain about 2600 images. After splitting the dataset into training and testing set each contain around 63k and 7k examples. Each image is 50X50 pixel image
 
 ## Image representing the sign of alphabet from A-Z of American sign language
-![image](Images/american_sign_language.PNG)
+![image](https://github.com/ashu-ashish/SignLanguageRecognition/blob/main/Image/american_sign_language.png)
 
 ## Dataset Preparation
 
